@@ -31,3 +31,9 @@ a
     background-color: black;
     color: white;
 }
+
+.kozep
+{
+    margin: 0 auto;
+    text-align: center;
+}
